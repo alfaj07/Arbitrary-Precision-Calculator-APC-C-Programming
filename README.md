@@ -1,6 +1,8 @@
 # Arbitrary Precision Calculator (APC)
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
+[![Compiler](https://img.shields.io/badge/Compiler-GCC%20%7C%20Clang-green.svg)](https://gcc.gnu.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL%20%7C%20Windows-orange.svg)]()
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 An **Arbitrary Precision Calculator** (Bignum Calculator) implemented in C. Standard primitive integer types in C (`int`, `long`, `long long`) are bounded by 32-bit or 64-bit limits and quickly overflow when computing large numerical values. 
@@ -126,10 +128,6 @@ Enter expression: -123456789+23456789
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) - see the [`LICENSE`](file:///d:/Coaching/project/MD_Alfaj_Ahmed%2826011f_051%29%28APC%29/LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE) -[`LICENSE`]
 
 ---
-
-## 👤 Author
-
-**MD Alfaj Ahmed**
