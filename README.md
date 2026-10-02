@@ -128,6 +128,6 @@ Enter expression: -123456789+23456789
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) -[`LICENSE`]
+This project is licensed under the [MIT License](LICENSE) 
 
 ---
