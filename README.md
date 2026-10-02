@@ -1,7 +1,6 @@
 # Arbitrary Precision Calculator (APC)
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
-![Standard](https://img.shields.io/badge/Standard-C11-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 An **Arbitrary Precision Calculator** (Bignum Calculator) implemented in C. Standard primitive integer types in C (`int`, `long`, `long long`) are bounded by 32-bit or 64-bit limits and quickly overflow when computing large numerical values. 
